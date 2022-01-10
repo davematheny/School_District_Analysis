@@ -15,29 +15,29 @@ Number of Students affected(See Below)
 ![Pic1](Resources/NumberOf9ThomasStudents.png)
 
 Before(see below)
-![Pic2](School_District_Analysis/Resources/districtsummaryBefore.png)
+![Pic2](Resources/districtsummaryBefore.png)
 
 After(see below)
-![Pic3](School_District_Analysis/Resources/districtsummaryAfter.png)
+![Pic3](Resources/districtsummaryAfter.png)
 
 ### How is the school summary affected?
 The two pics below pretty much show they cheated, Math(93 to 66), Reading(97 to 69) and overall(91 to 65) changed pretty significantly.
 
 Before(see below)
-![Pic4](School_District_Analysis/Resources/per_school_summaryBefore.png)
+![Pic4](Resources/per_school_summaryBefore.png)
 
 After(see below)
-![Pic5](School_District_Analysis/Resources/per_school_summaryAfter.png)
+![Pic5](Resources/per_school_summaryAfter.png)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 Thomas goes from 2nd at 90.948012 to 8th at 65.076453, this is a significant change.  See below
 
 
 Before(see below)
-![Pic5](School_District_Analysis/Resources/RankingBefore.png)
+![Pic5](Resources/RankingBefore.png)
 
 After(see below)
-![Pic6](School_District_Analysis/Resources/RankingAfter.png)
+![Pic6](Resources/RankingAfter.png)
 
 
 ### How does replacing the ninth-grade scores affect the following:
@@ -45,26 +45,26 @@ After(see below)
 It changes the Math and Reading by grade in that now both Have Nan, prior they did not for 9th grade Thomas High School(See below).
 
 Math Before
-![Pic7](School_District_Analysis/Resources/MathBefore.png)
+![Pic7](Resources/MathBefore.png)
 
 Math After
-![Pic8](School_District_Analysis/Resources/MathAfter.png)
+![Pic8](Resources/MathAfter.png)
 
 Reading Before
-![Pic9](School_District_Analysis/Resources/ReadingBefore.png)
+![Pic9](Resources/ReadingBefore.png)
 
 Reading After
-![Pic10](School_District_Analysis/Resources/ReadingAfter.png)
+![Pic10](Resources/ReadingAfter.png)
 
 
 #### Scores by school spending 
 I didnt not see any significant changes, I probably could have gotten the decimal lower to show some difference, but I dont think it would be of much value.
 
 Spending Before
-![Pic11](School_District_Analysis/Resources/SpendingBefore.png)
+![Pic11](Resources/SpendingBefore.png)
 
 Spending After
-![Pic12](School_District_Analysis/Resources/SpendingAfter.png)
+![Pic12](Resources/SpendingAfter.png)
 
 
 #### Scores by school size - 
@@ -72,20 +72,20 @@ Once again, I didnt not see any significant changes, I probably could have gotte
 
 
 Size Before
-![Pic13](School_District_Analysis/Resources/SizeBefore.png)
+![Pic13](Resources/SizeBefore.png)
 
 Size After
-![Pic14](School_District_Analysis/Resources/SizeAfter.png)
+![Pic14](Resources/SizeAfter.png)
 
 
 #### Scores by school type - 
 Once again, I didnt not see any significant changes, I probably could have gotten the decimal lower to show some difference, but I dont think it would be of much value.
 
 Size Before
-![Pic15](School_District_Analysis/Resources/TypeBefore.png)
+![Pic15](Resources/TypeBefore.png)
 
 Size After
-![Pic16](School_District_Analysis/Resources/TypeAfter.png)
+![Pic16](Resources/TypeAfter.png)
 
 ## Summary
 There were some significant changes % Passing Math went from 93.27 to 66.91, % Passing Reading from 97.30 to 69.66, % Overall Passing from 90.94 to 65.07. 
