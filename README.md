@@ -12,7 +12,7 @@ The school board suspects academic dishonesty from Thomas High School ninth grad
 Only 461 students where affected out of 39170, meaning there are only 461 9th grade students from Thomas High School.  The overall impact of the district summary was minimal to both Math and Reading(less than a percent change to both).
 
 Number of Students affected(See Below)
-![Pic1](School_District_Analysis/Resources/NumberOf9ThomasStudents.png)
+![Pic1](Resources/NumberOf9ThomasStudents.png)
 
 Before(see below)
 ![Pic2](School_District_Analysis/Resources/districtsummaryBefore.png)
